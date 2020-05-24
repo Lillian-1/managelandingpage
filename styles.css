@@ -1,0 +1,325 @@
+body{
+	background-color: white;
+	margin:0px; 
+}
+
+h2{
+	font-family: sans-serif;
+	font-size: 20px;
+	padding-top:15px;
+	font-weight: bolder;
+	margin-left: 10px;
+}
+
+.logo{
+	float: left;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 120px;
+	width: 50px;
+	height: 50px;
+}
+ul{
+	list-style: none;
+}
+
+#menu{
+	margin-left:380px;
+	font-family: arial;
+	margin-top: -50px;
+}
+
+#menu li{
+	display: block;
+	width: auto;
+	float:left;
+	margin-left: 15px;
+}
+
+#menu a{
+	display: block;
+	padding: 3px;
+	text-decoration: none;
+	color: black;
+
+}
+
+#menu a:hover{
+	color: blue;
+}
+
+button{
+	border-radius: 40px;
+	margin-top : -5px;
+	float: right;
+	background-color: orange;
+	margin-right: 20px;
+	padding: 14px;
+	color: white;
+	border:1px;
+
+}
+
+button:hover{
+	cursor: pointer;
+	background-color: purple;
+}
+
+h3{
+	font-family: lucida console;
+	font-weight: bolder;
+	font-size: 50px;
+	margin-left: 70px;
+}
+.plan-container{
+	margin-left: -230px;
+	padding: 20%;
+	margin-right: 450px;
+}
+.plan-container >p{
+	margin-left: 70px;
+}
+
+.plan-container button{
+	float: left;
+	margin-top: 30px;margin-left: 70px;
+}
+
+.planContainer img{
+	float: right;
+	height: 400px;
+	margin-top: -500px;
+	margin-right: 150px;
+}
+
+.manageContainer{
+	margin-left: -230px;
+	padding: 20%;
+	margin-right: 450px;
+	margin-top: -100px;
+}
+.manageContainer>h4{
+	font-family: lucida console;
+	font-weight: bolder;
+	font-size: 30px;margin-left: 70px;
+
+}
+
+article{
+	padding-right: 250px;
+
+}
+
+article >p{
+	margin-left: 70px;
+}
+
+aside{
+	float: left;
+	padding-left: 800px;
+	margin-top: -450px;
+}
+
+aside > button{
+	float: left;
+	border-radius: 17px;
+	margin-left: -70px;
+	padding-right: 26px;
+	padding-left:26px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+h5{
+	font-family: arial narrow;
+	font-size: 20px;
+
+}
+
+section{
+	padding-left: 20px;
+	padding-right: 100px;
+}
+
+section h5{
+	margin-top: -5px;
+}
+
+section p{
+	margin-top: -20px;
+}
+
+.comment > h4{
+	justify-content: center;
+	font-family: arial narrow;
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: 500px;
+
+}
+.anisha > h5{
+	margin-left: 130px;
+	margin-bottom: -4px;
+	margin-top: 10px;
+}
+
+.anisha{
+    border:0px solid ;
+	margin-right: 70%;
+	background-color: #dcdcdc;
+	padding: 10px;
+	height: 200px;
+
+}
+
+.anisha img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	margin-left: 130px;
+	margin-top: -28px;
+}
+
+.ali >h5 {
+	margin-left: 130px;
+	margin-bottom: -4px;
+	margin-top: 10px;
+}
+
+.ali{
+	border:0px solid ;
+	margin-left: 35%;
+	margin-right: 35%;
+	background-color: #dcdcdc;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-top: -220px;
+    height: 200px;
+}
+
+.ali img,.richard img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	margin-left: 130px;
+	margin-top: -28px;
+}
+
+.richard>h5{
+	margin-left: 130px;
+	margin-bottom: -4px;
+	margin-top: 10px;
+}
+
+.richard{
+	border:0px solid ;
+	margin-left: 70%;
+	background-color: #dcdcdc;
+	padding: 10px;
+	margin-bottom: 250px;
+	margin-top: -232px;
+	height: 200px;
+	box-shadow: red;
+}
+
+div > button{
+	margin-top: -220px;
+	margin-right: 50%;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.team-container{
+	background-color: orange;
+	padding: 30px;
+	margin: 0px;
+
+}
+
+.team-container >button{
+	background-color: white;
+	color: black;
+	margin-top: -58px;
+	float: right;
+	margin-right: 30px;
+}
+.team-container > button:hover{
+	background-color:red;
+}
+
+.team >h5{
+	font-size: 28px;
+	font-weight: bold;
+	font-family: arial narrow;
+}
+
+#footer{
+	background-color: black;
+	padding: 40px;
+}
+
+footer>p{
+	color: white;
+	padding: 20px;
+	color: white;
+	text-align: left;
+}
+
+.fa-facebook-square,.fa-youtube,.fa-twitter,.fa-pinterest,.fa-instagram{
+	color: white;
+}
+
+.fab:hover{
+	color: orange;
+}
+
+footer>ul{
+	color: white;
+
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+	font-family: arial narrow;
+
+}
+
+a:hover{
+	color: orange;
+}
+
+li{
+	margin-left: 250px;
+	margin-top: 5px;
+}
+
+ul{
+	margin-top: -100px;
+}
+
+input{
+	float: right;
+	margin-top: -100px;
+	margin-right: 400px;
+	border-radius: 16px;
+	
+	padding-left: 8px;
+	font-size: 18px;
+	color: grey;
+
+}
+
+.go{
+	margin-top: -110px;
+	margin-right: 330px;
+}
+
+footer .copy{
+	float: right;
+	
+	margin-right: 330px;
+	margin-top: -70px;
+}
